@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá!!! Sou o Danillo Araki  👋
 
-<!--
-**Danillo-Araki/Danillo-Araki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Atualmente estou migrando para área de tecnologia.
+-  Estudando Fron-End
+-  Redes Sociais 
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Danillo.araki/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danillo-araki-0ab26836/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologia que eu uso no meu dia 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+![ProJapa GitHub stats](https://github-readme-stats.vercel.app/api?username=Danillo-Araki&show_icons=true&theme=tokyonight)
+
+[![ProJapa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danillo-Araki)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+  ![Snake animation](https://github.com/Danillo-Araki/Danillo-Araki/blob/output/github-contribution-grid-snake.svg)
